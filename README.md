@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 <!--START_SECTION:waka-->
 
-[![Nikos GitHub stats](https://github-readme-stats.vercel.app/api?username=NikosFi)](https://github.com/NikosFi/github-readme-stats)
 
 <!--END_SECTION:waka-->
